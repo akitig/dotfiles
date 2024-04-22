@@ -2,7 +2,7 @@ export PATH="/Users/akunimot/Library/Python/3.9/bin":$PATH
 
 alias ccwf='cc -Wall -Werror -Wextra -fsanitize=address'
 alias ccw='cc -Wall -Werror -Wextra'
-alias vim='~/nvim-macos-x86_64/bin/nvim'
+alias vim='~/nvim-macos/bin/nvim'
 
 # git ブランチ名を色付きで表示させるメソッド
 # git
