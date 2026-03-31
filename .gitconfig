@@ -1,0 +1,25 @@
+[user]
+	name = akitig
+	email = akitig24@gmail.com
+
+[init]
+	defaultBranch = main
+
+[core]
+	editor = vim
+	autocrlf = input
+
+[pull]
+	rebase = false
+
+[rebase]
+	autostash = true
+
+[merge]
+	conflictstyle = zdiff3
+
+[rerere]
+	enabled = true
+
+[color]
+	ui = auto
